@@ -3,5 +3,5 @@
 - Smooth scrolling in each section.
 
 
-![preview img](/charan.jpj)
+![preview img](/assets/img/charan.jpj)
 
