@@ -3,5 +3,5 @@
 - Smooth scrolling in each section.
 
 
-![preview img](Screenshot (39).png)
+![preview img](preview.png)
 
